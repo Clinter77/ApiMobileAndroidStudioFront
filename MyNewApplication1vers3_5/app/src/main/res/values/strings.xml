@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyNewApplication1</string>
+    <string name="button">BoutonLogin</string>
+    <string name="hello">Hello</string>
+    <string name="textview">TextView</string>
+    <string name="interpretations_musicales">INTERPRETATIONS MUSICALES</string>
+    <string name="votre_identifiant_ici">votre identifiant ici</string>
+    <string name="ok">OK</string>
+</resources>
